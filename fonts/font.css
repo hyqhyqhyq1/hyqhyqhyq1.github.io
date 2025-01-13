@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Jing';
+    src: url('./jing.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+@font-face {
+    font-family: 'Zhi';
+    src: url('./zhi.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
